@@ -1,0 +1,15 @@
+{
+  "name": "sun-token-sample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal TRON project for the verified SunToken contract.",
+  "engines": {
+    "node": ">=22 <25"
+  },
+  "scripts": {
+    "compile": "tronbox compile --all"
+  },
+  "devDependencies": {
+    "tronbox": "4.10.0"
+  }
+}
