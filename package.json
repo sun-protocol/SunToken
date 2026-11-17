@@ -10,6 +10,6 @@
     "compile": "tronbox compile --all"
   },
   "devDependencies": {
-    "tronbox": "4.10.0"
+    "tronbox": "^6.5.2"
   }
 }
